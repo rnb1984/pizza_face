@@ -1,6 +1,6 @@
 import angular from 'angular';
 import angularMeteor from 'angular-meteor';
-import { Pizzas } from '../../api/Pizzas.js';
+import { Pizzas } from '../../api/pizzas/Pizzas.js';
 
 import template from './pizzas.html';
  

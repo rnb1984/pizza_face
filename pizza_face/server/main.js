@@ -1,1 +1,1 @@
-import '../imports/api/Pizzas.js';
+import '../imports/api/pizzas/Pizzas.js';
